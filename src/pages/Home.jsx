@@ -41,6 +41,9 @@ const Home = () => {
             <option value="21">Sports</option>
             <option value="25">Art</option>
             <option value="9">General Knowledge</option>
+            <option value="23">History</option>
+            <option value="10">Entertainment: Books</option>
+            <option value="11">Entertainment: Film</option>
           </Select>
         </FormControl>
         <br />
